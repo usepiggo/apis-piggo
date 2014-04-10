@@ -39,7 +39,7 @@
 					<target>1.7</target>
 				</configuration>
 			</plugin>
-			<!-- <plugin>
+			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-source-plugin</artifactId>
 				<executions>
@@ -50,7 +50,7 @@
 						</goals>
 					</execution>
 				</executions>
-			</plugin> -->
+			</plugin> 
 			<plugin>
 				<groupId>com.github.github</groupId>
 				<artifactId>site-maven-plugin</artifactId>
