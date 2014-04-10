@@ -8,7 +8,7 @@
 	<name>JPA Project</name>
 	<properties>
 		<spring.version>3.1.0.RELEASE</spring.version>
-		<!-- Se a propriedade abaixo não for encontrada, favor vevificar o endereço 
+		<!-- Se a propriedade abaixo não for encontrada, favor verificar o endereço 
 			a seguir para entender a configuração http://blog.camilolopes.com.br/gerando-artifacts-maven-para-github/ -->
 		<github.global.server>github</github.global.server>
 	</properties>
